@@ -181,6 +181,9 @@ body {
 .offset-xl-1.col-xl-4.col-lg-5.col-12.pt-lg-0.pt-9{
     padding-right: 8.33333%;
 }
+.dropdown-menu.pt-3.pb-0.pb-xl-3.x-animated.x-fadeInUp{
+    left: unset !important;
+}
 @media (max-width:767px){
     .text-md-right {
       text-align: unset !important;

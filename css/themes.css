@@ -23789,7 +23789,8 @@ font-size: .875rem;
   margin-right: unset !important;
   margin-top: 2em;
 }
-.card-text, .card-title{
+.box.slick-slide.slick-active .card-text,
+.box.slick-slide.slick-active .card-title{
   text-align: center !important;
 }
 @media (min-width: 768px) {
