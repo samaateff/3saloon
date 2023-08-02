@@ -2264,6 +2264,9 @@ pre code {
   color: #fff;
   background-color: rgba(255, 255, 255, 0.075);
 }
+.modal.sign-in .modal-dialog{
+  padding-top: 15em;
+}
 
 @media (max-width: 575.98px) {
   .table-responsive-sm {
@@ -23802,6 +23805,9 @@ font-size: .875rem;
 .box.slick-slide.slick-active .card-text,
 .box.slick-slide.slick-active .card-title{
   text-align: center !important;
+}
+.letter-spacing-015 {
+  letter-spacing: unset !important;
 }
 @media (min-width: 768px) {
   .custom-col-stretched-right {
