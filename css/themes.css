@@ -2282,6 +2282,9 @@ pre code {
   .fs-18.font-weight-500.my-lg-0.my-2{
     font-size: 12px !important;
   }
+  .mb-0.text-sm.font-weight-bold.text-secondary.text-center.letter-spacing-01.text-uppercase{
+    font-size: 7px;
+  }
 }
 
 @media (max-width: 767.98px) {
