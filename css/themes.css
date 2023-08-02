@@ -2275,6 +2275,13 @@ pre code {
   .table-responsive-sm > .table-bordered {
     border: 0;
   }
+  .dropdown-toggle.custom-dropdown-toggle.text-decoration-none.text-secondary.p-3.mw-210.position-relative.d-block{
+    width: 170px;
+    font-size: 12px;
+  }
+  .fs-18.font-weight-500.my-lg-0.my-2{
+    font-size: 12px !important;
+  }
 }
 
 @media (max-width: 767.98px) {
